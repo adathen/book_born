@@ -6,7 +6,7 @@
 [![Launch with Voilà on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adathen/book_born/main?urlpath=voila/render/A5_Book_App.ipynb)
 
 > 連結格式：
-> `https://mybinder.org/v2/gh/<使用者>/<Repo>/<分支>?urlpath=voila/render/A5_Book_App.ipynb`
+> `https://mybinder.org/v2/gh/adathen/book_born/main?urlpath=voila/render/A5_Book_App.ipynb`
 
 ## 需求
 - python-docx
