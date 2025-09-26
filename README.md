@@ -1,0 +1,21 @@
+# A5 Book Generator (Voilà)
+
+用 Voilà 把 Jupyter Notebook 轉成網頁 App 的 A5 小書建立器。
+
+## 一鍵啟動（請替換你的 GitHub 使用者/Repo/分支）
+[![Launch with Voilà on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR_GITHUB_USER/YOUR_REPO/main?urlpath=voila/render/A5_Book_App.ipynb)
+
+> 連結格式：
+> `https://mybinder.org/v2/gh/<使用者>/<Repo>/<分支>?urlpath=voila/render/A5_Book_App.ipynb`
+
+## 需求
+- python-docx
+- pillow
+- ipywidgets
+- voila
+
+## 本機開發
+```bash
+pip install -r requirements.txt
+voila A5_Book_App.ipynb
+```
