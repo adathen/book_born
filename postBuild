@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -e
+jupyter server extension enable voila --sys-prefix
+jupyter nbextension enable --py widgetsnbextension --sys-prefix || true
