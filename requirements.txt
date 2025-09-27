@@ -9,4 +9,5 @@ nbclient==0.7.4
 pypinyin==0.50.0
 moviepy==1.0.3          # 影片軸組與輸出
 imageio-ffmpeg==0.4.9   # 內嵌 ffmpeg，moviepy 需要
-pyttsx3==2.90           # 離線 TTS（若環境不支援則自動降級為靜音）
+#pyttsx3==2.90           # 離線 TTS（若環境不支援則自動降級為靜音）
+gTTS==2.5.1
