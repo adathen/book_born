@@ -8,6 +8,9 @@
 ## 一鍵啟動（具拼音功能）
 [![Launch with Voilà on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adathen/book_born/main?urlpath=voila/render/A5_Book_App_with_Pinyin.ipynb?viola=debug,show_tracebacks=True)
 
+## 一鍵啟動（具拼音及影音功能）
+[![Launch with Voilà on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adathen/book_born/main?urlpath=voila/render/A5_Book_App_with_Pinyin_and_Video.ipynb?viola=debug,show_tracebacks=True)
+
 > 連結格式：
 > `https://mybinder.org/v2/gh/adathen/book_born/main?urlpath=voila/render/A5_Book_App.ipynb?viola=debug,show_tracebacks=True`
 
