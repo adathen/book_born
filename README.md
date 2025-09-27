@@ -2,8 +2,11 @@
 
 用 Voilà 把 Jupyter Notebook 轉成網頁 App 的 A5 小書建立器。
 
-## 一鍵啟動（請替換你的 GitHub 使用者/Repo/分支）
+## 一鍵啟動（基本型）
 [![Launch with Voilà on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adathen/book_born/main?urlpath=voila/render/A5_Book_App.ipynb?viola=debug,show_tracebacks=True)
+
+## 一鍵啟動（具拼音功能）
+[![Launch with Voilà on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adathen/book_born/main?urlpath=voila/render/A5_Book_App_with_Pinyin.ipynb?viola=debug,show_tracebacks=True)
 
 > 連結格式：
 > `https://mybinder.org/v2/gh/adathen/book_born/main?urlpath=voila/render/A5_Book_App.ipynb?viola=debug,show_tracebacks=True`
