@@ -6,3 +6,5 @@ python-docx
 moviepy
 ipywidgets
 voila
+moviepy==1.0.3          # 影片軸組與輸出
+imageio-ffmpeg==0.4.9   # 內嵌
