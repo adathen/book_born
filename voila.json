@@ -1,7 +1,6 @@
 {
-  "voila": {
-    "enable_nbextensions": true,
-    "theme": "light",
-    "strip_sources": false
+  "VoilaConfiguration": {
+    "show_tracebacks": true,
+    "enable_nbextensions": true
   }
 }
