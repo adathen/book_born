@@ -1,9 +1,3 @@
-
-numpy
-pillow
-python-docx
-ipywidgets
-moviepy
-gTTS
-edge-tts
-pypinyin
+voila==0.5.5
+ipywidgets==8.1.2
+pypinyin==0.50.0
