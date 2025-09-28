@@ -1,7 +1,5 @@
 {
   "VoilaConfiguration": {
-    "show_tracebacks": true,
-    "enable_nbextensions": true,
-    "theme": "light"
+    "show_tracebacks": true
   }
 }
