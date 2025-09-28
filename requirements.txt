@@ -1,5 +1,6 @@
-voila==0.5.5
+notebook
+voila
 ipywidgets==8.1.2
 pypinyin==0.50.0
-numpy
 python-docx
+pillow
